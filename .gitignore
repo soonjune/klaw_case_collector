@@ -1,0 +1,5 @@
+*.docx
+**/
+*.zip
+with_love.spec
+chromedriver.exe
